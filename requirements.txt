@@ -1,0 +1,5 @@
+azure-functions
+line-bot-sdk
+request
+azure-cognitiveservices-vision-computervision
+pillow
